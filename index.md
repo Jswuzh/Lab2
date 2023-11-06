@@ -2,14 +2,20 @@
 ![image](code.png)
 ![image](add1.png)
 *The HandlerRequest are called,  method take URI url as argument and read the path. When we sent the request(change the path)(add query)
+
 *relevant field: List str, String path
+
 *relevant argument: URI url
+
 *Based on the request, the list str add string "Hello", and String path also change because the url changed, int size +1.
 
 ![image](add2.png)
 *The HandlerRequest are called,  method take URI url as argument and read the path. When we sent the request(change the path)(add query)
+
 *Based on the request, the list str add string "world", and String path also change because the url changed, int size +1.
+
 *relevant field: List str, String path
+
 *relevant argument: URI url
 
 # Part 2
